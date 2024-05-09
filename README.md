@@ -1,4 +1,4 @@
-![Captura de pantalla 2024-05-07 122750](https://github.com/M-VictoriaCM/Seminario-de-Flutter/assets/70769530/9ac62563-914d-4526-a694-fb195a3e4a65)
+<img src="https://github.com/M-VictoriaCM/Seminario-de-Flutter/assets/70769530/9ac62563-914d-4526-a694-fb195a3e4a65" width="300"/>
 
 >[!IMPORTANT]
 >- Instalacion de software de desarrollo
@@ -8,7 +8,7 @@
 >- Visual Studio Code
 >- Flutter extension for vscode
 
-![image](https://github.com/M-VictoriaCM/Seminario-de-Flutter/assets/70769530/9c582cc2-7efc-4f29-b021-8cd9403d57d2)
+<img src="https://github.com/M-VictoriaCM/Seminario-de-Flutter/assets/70769530/9c582cc2-7efc-4f29-b021-8cd9403d57d2" width="300"/>
 
 # Hola Mundo
 
